@@ -1,0 +1,35 @@
+commit cb8e84ad4f8c44d9cc25241d0755182c71c96531
+Author: Michael Cuvin <mcuvin@csu.fullerton.edu>
+Date:   Wed Apr 30 13:58:47 2014 -0700
+
+    Modfied function.h file
+
+commit 5930b540910bae84d9723ef4c499f914a9915313
+Author: Tektonikz <raffyabdon@gmail.com>
+Date:   Wed Apr 30 13:57:40 2014 -0700
+
+    updated main file
+
+commit 0ec2fa9a572e4eafa4ebf9f8506ed9042408bb4c
+Author: Tektonikz <raffyabdon@gmail.com>
+Date:   Wed Apr 30 13:55:17 2014 -0700
+
+    updated main file
+
+commit c528c502ecfa061ce3f11d9090b7fd2d501b4436
+Author: Tektonikz <raffyabdon@gmail.com>
+Date:   Wed Apr 30 13:52:47 2014 -0700
+
+    added function.h file
+
+commit b1f68ec9a5ed2322ce0c2fd2f484bbfa8f1f5b2e
+Author: Michael Cuvin <mcuvin@csu.fullerton.edu>
+Date:   Wed Apr 30 13:49:14 2014 -0700
+
+    Added hello world file
+
+commit e11c335588994d811cc75c2dc6bfa7343865f448
+Author: Tektonikz <raffyabdon@gmail.com>
+Date:   Wed Apr 30 13:43:14 2014 -0700
+
+    added readme file
